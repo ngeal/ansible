@@ -1,7 +1,2 @@
 # ansible
-Script Ansible
-
-
-TEST 2
-
-Test de modification pour commit
+Ce repository contient les différents scripts .yml exécutable par Ansible
